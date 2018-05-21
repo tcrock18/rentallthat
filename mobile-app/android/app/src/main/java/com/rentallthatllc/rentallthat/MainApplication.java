@@ -1,4 +1,4 @@
-package com.invertase.rnfirebasestarter;
+package com.rentallthatllc.rentallthat;
 
 import android.app.Application;
 
